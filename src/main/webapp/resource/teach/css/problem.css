@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 100%;
+    position: relative;
+}
+.problem{
+    width: 600px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 16px;
+    text-align: center;
+    background:#1e9fff ;
+    color: #ffffff;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    margin-left: -300px;
+}
+.answer{
+    width: 100%;
+    border: 1px solid #ff0000;
+    position: absolute;
+    top: 100px;
+}
